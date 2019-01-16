@@ -1,0 +1,13 @@
+.location-denied {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.inline-stuff {
+    display: flex;
+    flex-direction: row;
+}
+
